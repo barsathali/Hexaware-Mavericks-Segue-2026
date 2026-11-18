@@ -1,0 +1,3 @@
+ID,Description,Impact,Owner,Escalation Path,Expected Resolution
+AIR-IMP-01,Payment-gateway sandbox unavailable,Seat-upgrade payment story cannot be fully integrated or tested,Scrum Master,"Sandbox support team, then engineering manager",Restore sandbox or provide stable mock endpoint before integration testing
+AIR-IMP-02,Test credentials not confirmed,End-to-end test execution may be delayed,Developer / Scrum Master,QA lead and sandbox administrator,Credentials validated before test session

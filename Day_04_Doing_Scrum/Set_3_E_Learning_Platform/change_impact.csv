@@ -1,0 +1,8 @@
+Decision,Story,Points,Reason
+Keep in sprint,EL-01 Browse courses,5,Directly supports the Sprint Goal
+Keep in sprint,EL-02 Search courses,3,Directly supports course discovery
+Keep in sprint,EL-03 View course details,2,Completes discovery flow
+Keep in sprint,EL-04 Enrol in course,5,Core learner outcome
+Keep in sprint,EL-05 Resume progress,3,Supports learning continuity
+Swap out if agreed,EL-11 Learning history,3,Lower priority than launch certificate request
+Defer,EL-09 Certificate download,5,New request; assess scope and protect Sprint Goal unless Product Owner and Developers renegotiate

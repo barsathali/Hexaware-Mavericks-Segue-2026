@@ -1,0 +1,13 @@
+Issue Key,Summary,User Story,MoSCoW,Story Points,Epic
+WAL-01,View wallet balance,"As a customer, I want to view my available wallet balance so that I know how much I can spend.",Must,3,Wallet
+WAL-02,Add money using a saved payment method,"As a customer, I want to add money using a saved payment method so that I can fund my wallet quickly.",Must,5,Wallet
+WAL-03,View transaction history,"As a customer, I want to view recent wallet transactions so that I can track my spending.",Must,3,Wallet
+WAL-04,Filter transaction history,"As a customer, I want to filter transactions by date and type so that I can find a payment easily.",Should,3,Wallet
+WAL-05,Pay a merchant from wallet,"As a customer, I want to pay an approved merchant from my wallet so that checkout is faster.",Must,5,Payments
+WAL-06,Receive payment confirmation,"As a customer, I want a confirmation after a wallet payment so that I know the payment succeeded.",Must,2,Payments
+WAL-07,Set a wallet spending limit,"As a customer, I want to set a daily spending limit so that I can control my expenses.",Could,3,Controls
+WAL-08,Get low-balance notification,"As a customer, I want a notification when my balance falls below my chosen threshold so that I can top up in time.",Should,3,Controls
+WAL-09,Request refund to wallet,"As a customer, I want an eligible refund credited to my wallet so that I can reuse the refunded amount quickly.",Must,5,Refunds
+WAL-10,View refund status,"As a customer, I want to see the status of a refund so that I know when the amount will be available.",Should,2,Refunds
+WAL-11,Report an unrecognised transaction,"As a customer, I want to report an unrecognised transaction so that the support team can investigate it.",Should,5,Support
+WAL-12,Temporarily freeze wallet,"As a customer, I want to freeze my wallet so that unauthorised use can be prevented.",Could,3,Support

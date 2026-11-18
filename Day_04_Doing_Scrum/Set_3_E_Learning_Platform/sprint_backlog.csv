@@ -1,0 +1,13 @@
+Issue Key,Summary,User Story,Priority,Story Points,Epic
+EL-01,Browse available courses,"As a learner, I want to browse available courses so that I can find a course to study.",Must,5,Course Discovery
+EL-02,Search courses by keyword,"As a learner, I want to search courses by keyword so that I can find relevant content quickly.",Must,3,Course Discovery
+EL-03,View course details,"As a learner, I want to view course details so that I can decide whether to enrol.",Must,2,Course Discovery
+EL-04,Enrol in a course,"As a learner, I want to enrol in an available course so that I can begin learning.",Must,5,Enrolment
+EL-05,Resume course progress,"As a learner, I want to resume from my last completed lesson so that I can continue learning.",Must,3,Learning
+EL-06,Mark lesson complete,"As a learner, I want to mark a lesson complete so that my progress is recorded.",Must,2,Learning
+EL-07,Take a course assessment,"As a learner, I want to take an assessment so that I can demonstrate what I learned.",Should,5,Assessment
+EL-08,View assessment result,"As a learner, I want to view my assessment result so that I understand my performance.",Should,2,Assessment
+EL-09,Download course certificate,"As an eligible learner, I want to download my course certificate so that I can share proof of completion.",Should,5,Certificates
+EL-10,Receive completion notification,"As a learner, I want to receive a course completion notification so that I know when I finish a course.",Could,2,Notifications
+EL-11,View learning history,"As a learner, I want to view my completed courses so that I can track my learning journey.",Could,3,Learning
+EL-12,Retry a failed assessment,"As a learner, I want to retry an assessment when permitted so that I can improve my result.",Should,3,Assessment

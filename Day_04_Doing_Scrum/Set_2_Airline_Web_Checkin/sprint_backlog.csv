@@ -1,0 +1,13 @@
+Issue Key,Summary,User Story,Priority,Story Points,Epic
+AIR-01,Search available flights,"As a passenger, I want to search flights by route and date so that I can choose a suitable journey.",Must,5,Flight Search
+AIR-02,Retrieve booking,"As a passenger, I want to retrieve my booking using a reference and surname so that I can check in.",Must,3,Booking
+AIR-03,Confirm passenger details,"As a passenger, I want to review and confirm my details so that my boarding pass is accurate.",Must,3,Check-in
+AIR-04,Choose an available seat,"As a passenger, I want to select an available seat so that I can sit where I prefer.",Must,5,Seat Selection
+AIR-05,Pay for a seat upgrade,"As a passenger, I want to pay for a seat upgrade so that I can access a preferred seat.",Should,8,Seat Selection
+AIR-06,Receive payment result,"As a passenger, I want to see the payment result so that I know whether my upgrade was purchased.",Must,3,Payment
+AIR-07,Download boarding pass,"As a passenger, I want to download my boarding pass so that I can present it at the airport.",Must,3,Boarding Pass
+AIR-08,Email boarding pass,"As a passenger, I want my boarding pass emailed to me so that I can access it later.",Could,2,Boarding Pass
+AIR-09,View check-in status,"As a passenger, I want to view my check-in status so that I know whether I am checked in.",Should,2,Check-in
+AIR-10,Change selected seat,"As a passenger, I want to change my seat before check-in closes so that I can adjust my preference.",Could,3,Seat Selection
+AIR-11,Show upgrade price before payment,"As a passenger, I want to see the total upgrade price before paying so that I can make an informed decision.",Must,2,Payment
+AIR-12,Retry a failed upgrade payment,"As a passenger, I want to retry a failed upgrade payment safely so that I can complete the purchase without duplicate charges.",Should,5,Payment

@@ -1,0 +1,10 @@
+Story,Task,Estimate Hours
+WAL-01,Design balance summary and API response,3
+WAL-01,Implement balance retrieval,4
+WAL-01,Add unit and UI tests,2
+WAL-02,Integrate saved payment token flow,5
+WAL-02,Implement top-up validation,4
+WAL-02,Test success and failure paths,3
+WAL-05,Implement merchant payment request,5
+WAL-05,Handle insufficient balance and timeout,4
+WAL-05,Add payment confirmation tests,3
